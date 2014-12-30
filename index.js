@@ -19,4 +19,10 @@ module.exports = (function() {
     }
   });
 
-})
+  nrf.send = function(val) {
+    var sendBuf = new Buffer(val.length + 1);
+
+    spi.write(sendBuf);
+  };
+
+})();

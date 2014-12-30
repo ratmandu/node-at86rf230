@@ -1,5 +1,5 @@
 {
-  "name": "AT86RF230",
+  "name": "at86rf230",
   "version": "1.0.0",
   "description": "A module which will support the AT86RF23[0,1] 802.15.4 wireless module on embedded linux devices with an SPI bus",
   "main": "index.js",
