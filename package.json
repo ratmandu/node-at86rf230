@@ -1,0 +1,19 @@
+{
+  "name": "AT86RF230",
+  "version": "1.0.0",
+  "description": "A module which will support the AT86RF23[0,1] 802.15.4 wireless module on embedded linux devices with an SPI bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ratmandu/node-at86rf230.git"
+  },
+  "author": "Justin Richards <ratmandu@gmail.com> (https://github.com/ratmandu)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/ratmandu/node-at86rf230/issues"
+  },
+  "homepage": "https://github.com/ratmandu/node-at86rf230"
+}
